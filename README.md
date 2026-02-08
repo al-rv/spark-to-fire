@@ -2,6 +2,8 @@
 
 A simple desktop Kanban-style board for tracking learning ideas—from spark to completed (fire). Built with Python and CustomTkinter.
 
+![Spark to Fire app screenshot](sample.png)
+
 ## Features
 
 - **Four columns:** Spark (envisioned) → In Progress ⏳ → Discarded / Fire (completed)
